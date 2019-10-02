@@ -1,3 +1,3 @@
 # FromZeroToHeroTestApp
 
-Test project for FrenchKit
+Test project for FrenchKit Classroom
