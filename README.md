@@ -4,4 +4,5 @@ CI Status: [![Build Status](https://app.bitrise.io/app/c3ef6de2bf85a560/status.s
 
 Test project for FrenchKit Classroom
 
-sfgmnsfkjgnsflkgnsfljkng
+ojafpihafgpijagpihjazrgpijazrpgihazrpgiharopghi
+
